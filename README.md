@@ -1,1 +1,1 @@
-Template (realmente) responsivo para Unity WebGl.
+Responsive template for Unity WebGL
